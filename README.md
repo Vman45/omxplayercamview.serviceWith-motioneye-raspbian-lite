@@ -63,11 +63,16 @@ Install/Setup/Configure with:
 
     Raspbian based so should work on all the pi's.
    
-    Motioneye
+    Motioneye*
+    
+    
+    
+    
+    
+    *You can find more info and even donate to the motioneye project.
+    https://github.com/ccrisan/motioneye
 
-
-
-
+*This project was not endorsed by motioneye.  I  do thinkn it is a great project and I've wanted it on raspbian preloaded for a while, so I followed the great instructions from  motioneye and used the awesome Distro-RPI/pi-gen build system to make it happen. If you enjoy this, donate to motioneye.
 
 
 
