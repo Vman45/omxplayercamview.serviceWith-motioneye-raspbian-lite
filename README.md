@@ -26,12 +26,14 @@ Install/Setup/Configure with:
 	  a) Go ahead and change your password for the pi account. Safer to do this since you should enable openssh server to manage remotely.
 
         ````passwd pi````   \enter your new pw twice
-b) Enable/start ssh server
+             
+	b) Enable/start ssh server
 
-  ````sudo systemctl enable ssh````    
+  	````sudo systemctl enable ssh````    
   
-  ````sudo systemctl start ssh````
-Note:If you dont enable ssh server and you setup your camera as kiosk, you may find it difficult to resetup another camera view unless you disconnect from network/ or reboot, this is due to the nature of a persistent service, with no exit hooks, yet.
+  	````sudo systemctl start ssh````
+
+	Note:If you dont enable ssh server and you setup your camera as kiosk, you may find it difficult to resetup another camera view unless you disconnect from network/ or reboot, this is due to the nature of a persistent service, with no exit hooks, yet.
 
 
 3) Optionally, if you have a hdmi connected and want to use omxplayercamview.service.
