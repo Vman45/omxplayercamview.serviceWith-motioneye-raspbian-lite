@@ -70,11 +70,7 @@ Install/Setup/Configure with:
     
     
     
-    *You can find more info and even donate to the motioneye project.
-    https://github.com/ccrisan/motioneye
-
-*This project was not endorsed by motioneye.  I  do thinkn it is a great project and I've wanted it on raspbian preloaded for a while, so I followed the great instructions from  motioneye and used the awesome Distro-RPI/pi-gen build system to make it happen. If you enjoy this, consider a donation to motioneye. 
-
+    *You can find more info and even donate to the motioneye project. This project was not endorsed by motioneye, but due to open source software I enjoy it.  I do think it is a great project and I've wanted it on raspbian preloaded for a while, so I followed the great instructions from  motioneye and used the awesome Distro-RPI/pi-gen build system to make it happen. If you enjoy this, consider a donation to motioneye. See https://github.com/ccrisan/motioneye to donate.
 
 
 
