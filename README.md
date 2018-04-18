@@ -1,12 +1,7 @@
-This release with motioneye was forked from omxplayercamviewsvc-raspbian-lite, which was forked from RPi/pi-gen
+This release with motioneye was forked from omxplayercamviewsvc-raspbian-lite, which was forked from RPI-Distro/pi-gen.
 
 
-The same information applies below but in addition to that motioneye is running or port 80. You can login with "admin" and no passord.
-
-
-
-omxplayercamviewsvc-raspbian-lite is a raspbian-lite fork(respin) of the git project RPI-Distro/pi-gen, rebuilt from stage2
-with omxplayercamview.service installed.
+Motioneye is running or port 80. You can login with "admin" and no passord.
 
 
 Usage:
@@ -15,8 +10,7 @@ Install/Setup/Configure with:
 
 1) Download latest img from sf here:
 
-
-    https://sourceforge.net/projects/omxplayercamviewsvc-rpi-lite/files/latest/download
+	https://sourceforge.net/projects/omxplayercamviewsvcmeye-rpi/files/latest/download
 
     and write to sd card.
     
@@ -63,7 +57,7 @@ Install/Setup/Configure with:
     
     Good for standalone or private lan use.
 
-    Motioneye.
+    Motioneye
 
 
 
