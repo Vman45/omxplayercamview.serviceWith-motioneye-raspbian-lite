@@ -25,7 +25,7 @@ Install/Setup/Configure with:
 3) Optionally, if you have a hdmi connected and want to use omxplayercamview.service.
 
 
-	login using :
+	login to console using :
 	````
   	pi
   	raspberry
