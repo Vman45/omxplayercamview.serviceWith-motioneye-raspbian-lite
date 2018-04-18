@@ -31,6 +31,7 @@ Install/Setup/Configure with:
   	raspberry
 	````
 	Edit, change line #18 to your camera's 	     ip/port 
+	   (You can try localhost/8081 for a locally connected camera.)
 
    	````$sudo edit /etc/systemd/system/omxplayercamview.service````
 
