@@ -81,7 +81,9 @@ Install/Setup/Configure with:
     Motioneye*
     
     
-    
+ 
+ 
+ *This combination is acceptable for me when I want raspbian and motioneye, but its not near as great as motioneyeos when using as a straight single device use. I've also noted motioneye will pickup just about every csi camera I've thrown at it, where in raspbian I've not always gotten it to work. Also note the fastcam streaming is  different somehow. I dont know all the differences, but keep in mind this is not a substitute for motioneyeos but a compromise with it and raspbian.
     
     
     *You can find more info and even donate to the motioneye project. This project was not endorsed by motioneye, but due to open source software I enjoy it.  I do think it is a great project and I've wanted it on raspbian preloaded for a while, so I followed the great instructions from  motioneye and used the awesome Distro-RPI/pi-gen build system to make it happen. If you enjoy this, consider a donation to motioneye. 
