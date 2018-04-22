@@ -28,7 +28,7 @@ Install/Setup/Configure with:
 	  
 	  a) Go ahead and change your password for the pi account. Safer to do this since you should enable openssh server to manage remotely.
 
-        ````passwd pi```` 
+        ````"passwd pi"```` 
 			
 	*enter your new pw twice
              
