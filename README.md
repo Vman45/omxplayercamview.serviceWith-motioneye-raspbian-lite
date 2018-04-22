@@ -20,7 +20,7 @@ Install/Setup/Configure with:
 	You can login to the motioneye webinterface with your IP Address and 
 	User:
 	
-	````"admin"````
+	````admin````
 	
 	and no passord.
 	  
@@ -28,9 +28,8 @@ Install/Setup/Configure with:
 	  
 	  a) Go ahead and change your shell password password for the pi account. Safer to do this since you should enable openssh server to manage remotely, if you plan on using omxplayercamview.service.
 
-	````
-	passwd pi
-        ````
+	````passwd pi````
+        
 		*enter your new pw twice
              
 	     
