@@ -31,9 +31,9 @@ Install/Setup/Configure with:
 	````
 	passwd pi
         ````
-	
-	*enter your new pw twice
+		*enter your new pw twice
              
+	     
 	b) Enable/start ssh server
 
   	````sudo systemctl enable ssh````    
