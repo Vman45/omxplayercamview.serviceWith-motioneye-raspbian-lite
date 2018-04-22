@@ -17,15 +17,20 @@ Install/Setup/Configure with:
 2) After install and reboot, 
 	Motioneye is running or port 80. 
 
-	You can login to the motioneye webinterface with IPADDRESS/ 
+	You can login to the motioneye webinterface with your IP Address and 
+	User:
+	
 	````"admin"````
-	  and no passord.
+	
+	and no passord.
 	  
 	  
 	  
 	  a) Go ahead and change your password for the pi account. Safer to do this since you should enable openssh server to manage remotely.
 
-        ````passwd pi````   \enter your new pw twice
+        ````passwd pi```` 
+			
+	*enter your new pw twice
              
 	b) Enable/start ssh server
 
