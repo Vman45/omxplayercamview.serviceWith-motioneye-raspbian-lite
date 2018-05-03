@@ -78,6 +78,15 @@ Install/Setup/Configure with:
    ````$sudo reboot````
 
 
+
+*If you get the error 
+````
+"COMXVideo::Decode timeout"
+````
+Increase your gpu_mem=X var,  try appending "gpu_mem=128" to /boot/config.txt 
+or use raspi-config/dialog to change.
+
+
 *Features:
 
     omxplayser uses Accelerated direct HW rendering for hdmi viewing
